@@ -99,7 +99,7 @@ def build_categories_html(categories):
 def build_html():
     news_path = "data/xinwenlianbo.json"
     ai_path = "data/ai_news.json"
-    output_path = "dist/index.html"
+    output_path = "index.html"
 
     news_data = {"date": "", "weekday": "", "categories": []}
     if os.path.exists(news_path):
