@@ -73,10 +73,21 @@ def fetch_xinwenlianbo(date_str=None):
             title = seg["title"]
             if title.startswith("[视频]"):
                 title = title[4:]
+
+            # 跳过节目本身条目
+            if re.match(r"《新闻联播》\s*\d{8}\s*19:00", title):
+                continue
+
+            # 提取重点摘要
+            summary = _extract_key_points(detail["full_text"], title)
+
+            # 如果没有提取到摘要，用标题作为摘要
+            if not summary:
+                summary = title + "。"
+
             items.append({
                 "title": title,
-                "summary": detail["summary"],
-                "full_text": detail["full_text"],
+                "summary": summary,
                 "url": seg["url"],
             })
         except Exception as e:
@@ -108,7 +119,7 @@ def _fetch_detail(url, headers):
     )
 
     if not content_div:
-        return {"summary": "", "full_text": ""}
+        return {"full_text": ""}
 
     for tag in content_div.find_all(["script", "style", "iframe"]):
         tag.decompose()
@@ -124,14 +135,64 @@ def _fetch_detail(url, headers):
             continue
         lines.append(line)
 
-    full_text = "\n".join(lines[:20])
-    summary = full_text[:150] + ("..." if len(full_text) > 150 else "")
-    return {"summary": summary, "full_text": full_text}
+    full_text = "\n".join(lines[:30])
+    return {"full_text": full_text}
+
+
+def _extract_key_points(text, title):
+    """提取新闻重点，结构化摘要"""
+    if not text:
+        return ""
+
+    lines = text.split("\n")
+    key_lines = []
+
+    # 优先保留包含关键信息的句子
+    for line in lines:
+        if not line or len(line) < 10:
+            continue
+
+        # 包含关键信息的句子
+        has_key_info = False
+        key_patterns = [
+            r"\d+%", r"\d+亿", r"\d+万", r"\d+元",  # 数据
+            r"会议", r"决定", r"指出", r"强调", r"部署",  # 官方动作
+            r"增长", r"下降", r"提升", r"突破", r"完成",  # 成效
+            r"成功", r"发布", r"启动", r"推进", r"深化",  # 进展
+        ]
+        for pattern in key_patterns:
+            if re.search(pattern, line):
+                has_key_info = True
+                break
+
+        if has_key_info:
+            key_lines.append(line)
+        elif len(key_lines) < 3:
+            # 也保留前几条重要句子
+            if line.endswith(("。", "！", "？")):
+                key_lines.append(line)
+
+    # 组合摘要，最多 3 个要点
+    if not key_lines:
+        # 如果没提取到关键句，取前 2 句
+        key_lines = [l for l in lines if len(l) > 15 and l.endswith(("。", "！", "？"))][:2]
+
+    summary_parts = key_lines[:3]
+
+    # 格式化摘要
+    if len(summary_parts) == 1:
+        return summary_parts[0][:120] + ("..." if len(summary_parts[0]) > 120 else "")
+    else:
+        # 用分号连接多个要点
+        combined = "；".join(p.rstrip("。；") for p in summary_parts)
+        if len(combined) > 200:
+            combined = combined[:200] + "..."
+        return combined
 
 
 def categorize(items):
     rules = [
-        ("时政要闻", "🔴", ["习近平", "主席", "总理", "国务院", "中央", "政治局", "会见", "会晤", "党外人士"]),
+        ("时政要闻", "", ["习近平", "主席", "总理", "国务院", "中央", "政治局", "会见", "会晤", "党外人士"]),
         ("国际新闻", "🌍", ["美国", "俄罗斯", "欧洲", "日本", "联合国", "国际", "访问", "外交部", "外国"]),
         ("经济财经", "💰", ["GDP", "经济", "金融", "股市", "投资", "贸易", "增长", "收入", "消费"]),
         ("社会民生", "👥", ["教育", "医疗", "就业", "社保", "住房", "民生", "群众", "养老"]),
@@ -141,7 +202,7 @@ def categorize(items):
 
     categories = {}
     for item in items:
-        text = item["title"] + " " + item.get("full_text", "")
+        text = item["title"] + " " + item.get("summary", "")
         matched = False
         for name, icon, keywords in rules:
             if any(kw in text for kw in keywords):
@@ -186,7 +247,7 @@ def run(date_str=None, output="data/xinwenlianbo.json"):
     with open(output, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"已保存: {output}，共 {len(raw['items'])} 条新闻，{len(categories)} 个分类")
+    print(f"已保存：{output}，共 {len(raw['items'])} 条新闻，{len(categories)} 个分类")
     return data
 
 
