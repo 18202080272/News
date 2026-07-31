@@ -1,0 +1,21 @@
+{
+    "name": "每日要点",
+    "short_name": "每日要点",
+    "description": "每日新闻联播和 AI/知识付费要点",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#C62828",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
