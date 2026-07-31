@@ -2,6 +2,11 @@ import html
 import json
 import os
 from datetime import datetime
+from datetime import timezone, timedelta
+
+
+# 北京时间 UTC+8
+BJT = timezone(timedelta(hours=8))
 
 
 HTML_TEMPLATE = '''<!DOCTYPE html>
@@ -111,9 +116,9 @@ def build_html():
         with open(ai_path, "r", encoding="utf-8") as f:
             ai_data = json.load(f)
 
-    date = news_data.get("date") or ai_data.get("date") or datetime.now().strftime("%Y-%m-%d")
+    date = news_data.get("date") or ai_data.get("date") or datetime.now(BJT).strftime("%Y-%m-%d")
     weekday = news_data.get("weekday") or ai_data.get("weekday") or ""
-    update_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+    update_time = datetime.now(BJT).strftime("%Y-%m-%d %H:%M")
 
     news_html = build_categories_html(news_data.get("categories", []))
     ai_html = build_categories_html(ai_data.get("categories", []))
