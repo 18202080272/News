@@ -1,50 +1,50 @@
 {
-  "date": "2026-08-01",
-  "weekday": "周六",
+  "date": "2026-08-02",
+  "weekday": "周日",
   "categories": [
     {
       "name": "AI 前沿",
       "icon": "🤖",
       "items": [
         {
+          "title": "李飞飞教机器人摸麻将挤牙膏，AI终于有“手感”了",
+          "summary": "视觉负责回答「我要做什么」，触觉负责不断修正「我现在做得对不对」爱范儿5小时前",
+          "url": "https://36kr.com/p/3921955573542533"
+        },
+        {
+          "title": "谷歌机器人整了波大活儿，要攻克「最后几厘米」的行业难题？",
+          "summary": "谷歌通用机器人模型有什么不一样？雷科技7小时前",
+          "url": "https://36kr.com/p/3921809960425350"
+        },
+        {
+          "title": "贝索斯用 AI 寻找下一块硅",
+          "summary": "下一轮AI竞争，不只发生在模型里。字母AI8小时前",
+          "url": "https://36kr.com/p/3921846871676806"
+        },
+        {
+          "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
+          "summary": "AI Infra的效率革命硅谷10111小时前",
+          "url": "https://36kr.com/p/3920675282163337"
+        },
+        {
+          "title": "观众需要AI明星吗？",
+          "summary": "“谁管你买不买账。”听筒Tech12小时前",
+          "url": "https://36kr.com/p/3920791686026884"
+        },
+        {
+          "title": "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题",
+          "summary": "OpenAI新模型Astra破解十大数学难题，轰动学界。新智元13小时前",
+          "url": "https://36kr.com/p/3921682068172419"
+        },
+        {
+          "title": "如何让自己变得让人工智能永远也无法取代",
+          "summary": "这5项技能将决定你的未来神译局13小时前",
+          "url": "https://36kr.com/p/3889181574625798"
+        },
+        {
           "title": "刚刚，OpenAI全新模型Astra曝光！",
-          "summary": "AI圈又要过年了机器之心7小时前",
+          "summary": "AI圈又要过年了机器之心昨天",
           "url": "https://36kr.com/p/3920424297852291"
-        },
-        {
-          "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-          "summary": "时代在变游氪哩哩7小时前",
-          "url": "https://36kr.com/p/3920595518533250"
-        },
-        {
-          "title": "AI大厂，打起了“Token 奶茶大战”",
-          "summary": "模型越来越“像”，得留存者得天下字母AI7小时前",
-          "url": "https://36kr.com/p/3920563948852870"
-        },
-        {
-          "title": "突发，谷歌地球紧急撤回Nano Banana 2生图功能",
-          "summary": "谷歌地球集成AI生成模型Nano Banana 2，被玩坏后紧急撤回整改。新智元10小时前",
-          "url": "https://36kr.com/p/3920424012852617"
-        },
-        {
-          "title": "奥特曼承认：高估了AI抢饭碗！黄仁勋：失业论完全搞反了",
-          "summary": "奥特曼黄仁勋为AI失业论刹车，责任才是人类职场护城河新智元10小时前",
-          "url": "https://36kr.com/p/3920419961007492"
-        },
-        {
-          "title": "AI来了，大厂中层不好混了",
-          "summary": "“听话跟着走”不灵了。定焦One12小时前",
-          "url": "https://36kr.com/p/3920274115866249"
-        },
-        {
-          "title": "首届AI世界杯，留下三大核心遗产",
-          "summary": "AI深入世界杯赛事的肌理。懒熊体育14小时前",
-          "url": "https://36kr.com/p/3918102150065800"
-        },
-        {
-          "title": "AI的下一个 Claude Code，可能诞生在实验室",
-          "summary": "晶泰的野心，不只是AI制药硅基观察Pro14小时前",
-          "url": "https://36kr.com/p/3918118912398976"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "icon": "🔥",
       "items": [
         {
-          "title": "出生时被抱错两女子错换37年人生",
-          "summary": "【热】158万热度 出生时被抱错两女子错换37年人生",
-          "url": "https://s.weibo.com/weibo?q=出生时被抱错两女子错换37年人生"
+          "title": "银行 午休",
+          "summary": "114万热度 银行 午休",
+          "url": "https://s.weibo.com/weibo?q=银行 午休"
         },
         {
-          "title": "八一建军节快乐",
-          "summary": "【新】85万热度 八一建军节快乐",
-          "url": "https://s.weibo.com/weibo?q=八一建军节快乐"
+          "title": "华为投诉玩梗视频",
+          "summary": "【新】83万热度 华为投诉玩梗视频",
+          "url": "https://s.weibo.com/weibo?q=华为投诉玩梗视频"
         },
         {
-          "title": "找对象的尽头是初高中同学",
-          "summary": "75万热度 找对象的尽头是初高中同学",
-          "url": "https://s.weibo.com/weibo?q=找对象的尽头是初高中同学"
+          "title": "中国预警机独立指挥空中战场",
+          "summary": "【新】67万热度 中国预警机独立指挥空中战场",
+          "url": "https://s.weibo.com/weibo?q=中国预警机独立指挥空中战场"
         },
         {
-          "title": "登机柜台出现了好小众词汇",
-          "summary": "59万热度 登机柜台出现了好小众词汇",
-          "url": "https://s.weibo.com/weibo?q=登机柜台出现了好小众词汇"
+          "title": "胡一天演高中生被指违和",
+          "summary": "【热】57万热度 胡一天演高中生被指违和",
+          "url": "https://s.weibo.com/weibo?q=胡一天演高中生被指违和"
         },
         {
-          "title": "五公划区",
-          "summary": "【新】56万热度 五公划区",
-          "url": "https://s.weibo.com/weibo?q=五公划区"
+          "title": "一个爱侧睡的人轻轻的碎了",
+          "summary": "55万热度 一个爱侧睡的人轻轻的碎了",
+          "url": "https://s.weibo.com/weibo?q=一个爱侧睡的人轻轻的碎了"
         },
         {
-          "title": "送到你床上撕开快递员最丑陋的傲慢",
-          "summary": "【新】52万热度 送到你床上撕开快递员最丑陋的傲慢",
-          "url": "https://s.weibo.com/weibo?q=送到你床上撕开快递员最丑陋的傲慢"
+          "title": "三个字让我爸做了一辈子饭",
+          "summary": "47万热度 三个字让我爸做了一辈子饭",
+          "url": "https://s.weibo.com/weibo?q=三个字让我爸做了一辈子饭"
         },
         {
-          "title": "陈瑶回应九门霍仙姑下线",
-          "summary": "40万热度 陈瑶回应九门霍仙姑下线",
-          "url": "https://s.weibo.com/weibo?q=陈瑶回应九门霍仙姑下线"
+          "title": "网民造谣称淮北室外温度83摄氏度",
+          "summary": "46万热度 网民造谣称淮北室外温度83摄氏度",
+          "url": "https://s.weibo.com/weibo?q=网民造谣称淮北室外温度83摄氏度"
         },
         {
-          "title": "逐玉作者道歉",
-          "summary": "36万热度 逐玉作者道歉",
-          "url": "https://s.weibo.com/weibo?q=逐玉作者道歉"
+          "title": "主持人看迪丽热巴的眼神",
+          "summary": "43万热度 主持人看迪丽热巴的眼神",
+          "url": "https://s.weibo.com/weibo?q=主持人看迪丽热巴的眼神"
         }
       ]
     },
