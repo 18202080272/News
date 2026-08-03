@@ -1,50 +1,50 @@
 {
-  "date": "2026-08-02",
-  "weekday": "周日",
+  "date": "2026-08-03",
+  "weekday": "周一",
   "categories": [
     {
       "name": "AI 前沿",
       "icon": "🤖",
       "items": [
         {
-          "title": "李飞飞教机器人摸麻将挤牙膏，AI终于有“手感”了",
-          "summary": "视觉负责回答「我要做什么」，触觉负责不断修正「我现在做得对不对」爱范儿5小时前",
-          "url": "https://36kr.com/p/3921955573542533"
+          "title": "豆包输入法撕开语音口子，扒开科大讯飞外衣",
+          "summary": "语音之王，“老登”的困局亿欧网2小时前",
+          "url": "https://36kr.com/p/3923732474182017"
         },
         {
-          "title": "谷歌机器人整了波大活儿，要攻克「最后几厘米」的行业难题？",
-          "summary": "谷歌通用机器人模型有什么不一样？雷科技7小时前",
-          "url": "https://36kr.com/p/3921809960425350"
+          "title": "Anthropic 拒签与Meta双轨发声：美国AI产业在开放权重上的联合与分裂",
+          "summary": "Anthropic拒签另立。开放权重之争，本质是AI权力结构之争。互联网法律评论2小时前",
+          "url": "https://36kr.com/p/3923744344971137"
         },
         {
-          "title": "贝索斯用 AI 寻找下一块硅",
-          "summary": "下一轮AI竞争，不只发生在模型里。字母AI8小时前",
-          "url": "https://36kr.com/p/3921846871676806"
+          "title": "Claude 焚书又“越狱”边界在哪？",
+          "summary": "AI数据饥渴蔓延到物理世界AI唱反调2小时前",
+          "url": "https://36kr.com/p/3923744522074240"
         },
         {
-          "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-          "summary": "AI Infra的效率革命硅谷10111小时前",
-          "url": "https://36kr.com/p/3920675282163337"
+          "title": "具身智能挤满「修路人」，机器人还没普及，12270家服务商先打起来了",
+          "summary": "具身智能修路人，先迎来了淘汰赛。雷科技2小时前",
+          "url": "https://36kr.com/p/3923585549031297"
         },
         {
-          "title": "观众需要AI明星吗？",
-          "summary": "“谁管你买不买账。”听筒Tech12小时前",
-          "url": "https://36kr.com/p/3920791686026884"
+          "title": "靠做“中间商”生意估值20亿美元，Liblib跑出了奇迹还是泡沫？",
+          "summary": "增长很快，质疑也从未停歇。连线Insight2小时前",
+          "url": "https://36kr.com/p/3923706275690888"
         },
         {
-          "title": "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题",
-          "summary": "OpenAI新模型Astra破解十大数学难题，轰动学界。新智元13小时前",
-          "url": "https://36kr.com/p/3921682068172419"
+          "title": "无人再议AI六小龙",
+          "summary": "上市并非终局，只是获得了更大的燃料池正见TrueView2小时前",
+          "url": "https://36kr.com/p/3923656696190849"
         },
         {
-          "title": "如何让自己变得让人工智能永远也无法取代",
-          "summary": "这5项技能将决定你的未来神译局13小时前",
-          "url": "https://36kr.com/p/3889181574625798"
+          "title": "大模型公司估值，正在降权「SOTA叙事」",
+          "summary": "7月之后，市场降低了对单一模型领先的估值权重。明亮公司2小时前",
+          "url": "https://36kr.com/p/3923652049743492"
         },
         {
-          "title": "刚刚，OpenAI全新模型Astra曝光！",
-          "summary": "AI圈又要过年了机器之心昨天",
-          "url": "https://36kr.com/p/3920424297852291"
+          "title": "7个月新成立 23 家，世界模型进入「批量生产」阶段",
+          "summary": "北大22岁本科生、阿里P10、前菜鸟CTO——世界模型赛道的23张面孔IT桔子2小时前",
+          "url": "https://36kr.com/p/3923624427154818"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "icon": "🔥",
       "items": [
         {
-          "title": "银行 午休",
-          "summary": "114万热度 银行 午休",
-          "url": "https://s.weibo.com/weibo?q=银行 午休"
+          "title": "DeepSeek一天消耗了8万亿",
+          "summary": "165万热度 DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek一天消耗了8万亿"
         },
         {
-          "title": "华为投诉玩梗视频",
-          "summary": "【新】83万热度 华为投诉玩梗视频",
-          "url": "https://s.weibo.com/weibo?q=华为投诉玩梗视频"
+          "title": "三名辅警以罚代刑致醉驾司机身亡",
+          "summary": "【新】105万热度 三名辅警以罚代刑致醉驾司机身亡",
+          "url": "https://s.weibo.com/weibo?q=三名辅警以罚代刑致醉驾司机身亡"
         },
         {
-          "title": "中国预警机独立指挥空中战场",
-          "summary": "【新】67万热度 中国预警机独立指挥空中战场",
-          "url": "https://s.weibo.com/weibo?q=中国预警机独立指挥空中战场"
+          "title": "21.54亿元支持防灾救灾",
+          "summary": "85万热度 21.54亿元支持防灾救灾",
+          "url": "https://s.weibo.com/weibo?q=21.54亿元支持防灾救灾"
         },
         {
-          "title": "胡一天演高中生被指违和",
-          "summary": "【热】57万热度 胡一天演高中生被指违和",
-          "url": "https://s.weibo.com/weibo?q=胡一天演高中生被指违和"
+          "title": "丁程鑫手流血",
+          "summary": "【新】84万热度 丁程鑫手流血",
+          "url": "https://s.weibo.com/weibo?q=丁程鑫手流血"
         },
         {
-          "title": "一个爱侧睡的人轻轻的碎了",
-          "summary": "55万热度 一个爱侧睡的人轻轻的碎了",
-          "url": "https://s.weibo.com/weibo?q=一个爱侧睡的人轻轻的碎了"
+          "title": "低精力可以去医院查有没有疾病",
+          "summary": "83万热度 低精力可以去医院查有没有疾病",
+          "url": "https://s.weibo.com/weibo?q=低精力可以去医院查有没有疾病"
         },
         {
-          "title": "三个字让我爸做了一辈子饭",
-          "summary": "47万热度 三个字让我爸做了一辈子饭",
-          "url": "https://s.weibo.com/weibo?q=三个字让我爸做了一辈子饭"
+          "title": "贺峻霖哭了",
+          "summary": "【新】59万热度 贺峻霖哭了",
+          "url": "https://s.weibo.com/weibo?q=贺峻霖哭了"
         },
         {
-          "title": "网民造谣称淮北室外温度83摄氏度",
-          "summary": "46万热度 网民造谣称淮北室外温度83摄氏度",
-          "url": "https://s.weibo.com/weibo?q=网民造谣称淮北室外温度83摄氏度"
+          "title": "飞猪把千岛湖变成汪顺的主场了",
+          "summary": "59万热度 飞猪把千岛湖变成汪顺的主场了",
+          "url": "https://s.weibo.com/weibo?q=飞猪把千岛湖变成汪顺的主场了"
         },
         {
-          "title": "主持人看迪丽热巴的眼神",
-          "summary": "43万热度 主持人看迪丽热巴的眼神",
-          "url": "https://s.weibo.com/weibo?q=主持人看迪丽热巴的眼神"
+          "title": "王楚钦穿领奖服太养眼了",
+          "summary": "【新】58万热度 王楚钦穿领奖服太养眼了",
+          "url": "https://s.weibo.com/weibo?q=王楚钦穿领奖服太养眼了"
         }
       ]
     },
