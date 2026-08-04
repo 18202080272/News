@@ -1,50 +1,50 @@
 {
-  "date": "2026-08-03",
-  "weekday": "周一",
+  "date": "2026-08-04",
+  "weekday": "周二",
   "categories": [
     {
       "name": "AI 前沿",
       "icon": "🤖",
       "items": [
         {
-          "title": "豆包输入法撕开语音口子，扒开科大讯飞外衣",
-          "summary": "语音之王，“老登”的困局亿欧网2小时前",
-          "url": "https://36kr.com/p/3923732474182017"
+          "title": "Anthropic CEO担心：招来的人只认钱不在乎使命，百万年薪的反噬？",
+          "summary": "忠诚！机器之心1小时前",
+          "url": "https://36kr.com/p/3925131751815305"
         },
         {
-          "title": "Anthropic 拒签与Meta双轨发声：美国AI产业在开放权重上的联合与分裂",
-          "summary": "Anthropic拒签另立。开放权重之争，本质是AI权力结构之争。互联网法律评论2小时前",
-          "url": "https://36kr.com/p/3923744344971137"
+          "title": "免费AI攻入教育，好未来们的护城河还剩多宽？",
+          "summary": "点读机的韵脚正在重演新立场pro1小时前",
+          "url": "https://36kr.com/p/3925013685491329"
         },
         {
-          "title": "Claude 焚书又“越狱”边界在哪？",
-          "summary": "AI数据饥渴蔓延到物理世界AI唱反调2小时前",
-          "url": "https://36kr.com/p/3923744522074240"
+          "title": "中国版「生物DeepSeek」诞生，4个牛津学霸，让AI接管生命科学",
+          "summary": "牛津归国团队创办津渡生科，推出全球首个原始预训练多组学大模型GeneLLM新智元1小时前",
+          "url": "https://36kr.com/p/3925157533677958"
         },
         {
-          "title": "具身智能挤满「修路人」，机器人还没普及，12270家服务商先打起来了",
-          "summary": "具身智能修路人，先迎来了淘汰赛。雷科技2小时前",
-          "url": "https://36kr.com/p/3923585549031297"
+          "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+          "summary": "CUDA又危了？量子位1小时前",
+          "url": "https://36kr.com/p/3925157827999873"
         },
         {
-          "title": "靠做“中间商”生意估值20亿美元，Liblib跑出了奇迹还是泡沫？",
-          "summary": "增长很快，质疑也从未停歇。连线Insight2小时前",
-          "url": "https://36kr.com/p/3923706275690888"
+          "title": "Agent成本暴降几十倍，LlamaFactory作者开源新工具：0.2元自动造Agent",
+          "summary": "开源轻量工具PenguinHarness，支持Agent自动构建与自进化新智元1小时前",
+          "url": "https://36kr.com/p/3925157852493960"
         },
         {
-          "title": "无人再议AI六小龙",
-          "summary": "上市并非终局，只是获得了更大的燃料池正见TrueView2小时前",
-          "url": "https://36kr.com/p/3923656696190849"
+          "title": "最大AI黑洞，Anthropic年入1万亿美元后，算力价格狂飙10倍",
+          "summary": "算力正在按人类工资重新标价新智元1小时前",
+          "url": "https://36kr.com/p/3925157878544518"
         },
         {
-          "title": "大模型公司估值，正在降权「SOTA叙事」",
-          "summary": "7月之后，市场降低了对单一模型领先的估值权重。明亮公司2小时前",
-          "url": "https://36kr.com/p/3923652049743492"
+          "title": "世界模型的下一步？牛津、NUS团队提出「心智世界建模」MWM：远不止物理世界",
+          "summary": "让心智与物理状态联合演化账号已注销1小时前",
+          "url": "https://36kr.com/p/3924888512870537"
         },
         {
-          "title": "7个月新成立 23 家，世界模型进入「批量生产」阶段",
-          "summary": "北大22岁本科生、阿里P10、前菜鸟CTO——世界模型赛道的23张面孔IT桔子2小时前",
-          "url": "https://36kr.com/p/3923624427154818"
+          "title": "1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？",
+          "summary": "吴恩达：“现在是时候再次改变教育了。”多知网2小时前",
+          "url": "https://36kr.com/p/3924697676446085"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "icon": "🔥",
       "items": [
         {
-          "title": "DeepSeek一天消耗了8万亿",
-          "summary": "165万热度 DeepSeek一天消耗了8万亿",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek一天消耗了8万亿"
+          "title": "泰航拒绝20多名中国乘客登机",
+          "summary": "【热】251万热度 泰航拒绝20多名中国乘客登机",
+          "url": "https://s.weibo.com/weibo?q=泰航拒绝20多名中国乘客登机"
         },
         {
-          "title": "三名辅警以罚代刑致醉驾司机身亡",
-          "summary": "【新】105万热度 三名辅警以罚代刑致醉驾司机身亡",
-          "url": "https://s.weibo.com/weibo?q=三名辅警以罚代刑致醉驾司机身亡"
+          "title": "鸿蒙智行回应竹知了事件",
+          "summary": "【新】135万热度 鸿蒙智行回应竹知了事件",
+          "url": "https://s.weibo.com/weibo?q=鸿蒙智行回应竹知了事件"
         },
         {
-          "title": "21.54亿元支持防灾救灾",
-          "summary": "85万热度 21.54亿元支持防灾救灾",
-          "url": "https://s.weibo.com/weibo?q=21.54亿元支持防灾救灾"
+          "title": "谁是联合利刃未来战场主角",
+          "summary": "81万热度 谁是联合利刃未来战场主角",
+          "url": "https://s.weibo.com/weibo?q=谁是联合利刃未来战场主角"
         },
         {
-          "title": "丁程鑫手流血",
-          "summary": "【新】84万热度 丁程鑫手流血",
-          "url": "https://s.weibo.com/weibo?q=丁程鑫手流血"
+          "title": "微信翻译 清朝变明朝",
+          "summary": "80万热度 微信翻译 清朝变明朝",
+          "url": "https://s.weibo.com/weibo?q=微信翻译 清朝变明朝"
         },
         {
-          "title": "低精力可以去医院查有没有疾病",
-          "summary": "83万热度 低精力可以去医院查有没有疾病",
-          "url": "https://s.weibo.com/weibo?q=低精力可以去医院查有没有疾病"
+          "title": "建议大家买行李箱不要太大众",
+          "summary": "53万热度 建议大家买行李箱不要太大众",
+          "url": "https://s.weibo.com/weibo?q=建议大家买行李箱不要太大众"
         },
         {
-          "title": "贺峻霖哭了",
-          "summary": "【新】59万热度 贺峻霖哭了",
-          "url": "https://s.weibo.com/weibo?q=贺峻霖哭了"
+          "title": "内娱新四大名著",
+          "summary": "50万热度 内娱新四大名著",
+          "url": "https://s.weibo.com/weibo?q=内娱新四大名著"
         },
         {
-          "title": "飞猪把千岛湖变成汪顺的主场了",
-          "summary": "59万热度 飞猪把千岛湖变成汪顺的主场了",
-          "url": "https://s.weibo.com/weibo?q=飞猪把千岛湖变成汪顺的主场了"
+          "title": "我们的少年时代2",
+          "summary": "【新】49万热度 我们的少年时代2",
+          "url": "https://s.weibo.com/weibo?q=我们的少年时代2"
         },
         {
-          "title": "王楚钦穿领奖服太养眼了",
-          "summary": "【新】58万热度 王楚钦穿领奖服太养眼了",
-          "url": "https://s.weibo.com/weibo?q=王楚钦穿领奖服太养眼了"
+          "title": "人不在工位一定要把豆包关了",
+          "summary": "48万热度 人不在工位一定要把豆包关了",
+          "url": "https://s.weibo.com/weibo?q=人不在工位一定要把豆包关了"
         }
       ]
     },
