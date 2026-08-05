@@ -1,96 +1,50 @@
 {
-  "date": "2026-08-04",
-  "weekday": "周二",
+  "date": "2026-08-05",
+  "weekday": "周三",
   "categories": [
-    {
-      "name": "AI 前沿",
-      "icon": "🤖",
-      "items": [
-        {
-          "title": "Anthropic CEO担心：招来的人只认钱不在乎使命，百万年薪的反噬？",
-          "summary": "忠诚！机器之心1小时前",
-          "url": "https://36kr.com/p/3925131751815305"
-        },
-        {
-          "title": "免费AI攻入教育，好未来们的护城河还剩多宽？",
-          "summary": "点读机的韵脚正在重演新立场pro1小时前",
-          "url": "https://36kr.com/p/3925013685491329"
-        },
-        {
-          "title": "中国版「生物DeepSeek」诞生，4个牛津学霸，让AI接管生命科学",
-          "summary": "牛津归国团队创办津渡生科，推出全球首个原始预训练多组学大模型GeneLLM新智元1小时前",
-          "url": "https://36kr.com/p/3925157533677958"
-        },
-        {
-          "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-          "summary": "CUDA又危了？量子位1小时前",
-          "url": "https://36kr.com/p/3925157827999873"
-        },
-        {
-          "title": "Agent成本暴降几十倍，LlamaFactory作者开源新工具：0.2元自动造Agent",
-          "summary": "开源轻量工具PenguinHarness，支持Agent自动构建与自进化新智元1小时前",
-          "url": "https://36kr.com/p/3925157852493960"
-        },
-        {
-          "title": "最大AI黑洞，Anthropic年入1万亿美元后，算力价格狂飙10倍",
-          "summary": "算力正在按人类工资重新标价新智元1小时前",
-          "url": "https://36kr.com/p/3925157878544518"
-        },
-        {
-          "title": "世界模型的下一步？牛津、NUS团队提出「心智世界建模」MWM：远不止物理世界",
-          "summary": "让心智与物理状态联合演化账号已注销1小时前",
-          "url": "https://36kr.com/p/3924888512870537"
-        },
-        {
-          "title": "1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？",
-          "summary": "吴恩达：“现在是时候再次改变教育了。”多知网2小时前",
-          "url": "https://36kr.com/p/3924697676446085"
-        }
-      ]
-    },
     {
       "name": "热门话题",
       "icon": "🔥",
       "items": [
         {
-          "title": "泰航拒绝20多名中国乘客登机",
-          "summary": "【热】251万热度 泰航拒绝20多名中国乘客登机",
-          "url": "https://s.weibo.com/weibo?q=泰航拒绝20多名中国乘客登机"
+          "title": "梅姨真实姓名首曝光",
+          "summary": "【新】340万热度 梅姨真实姓名首曝光",
+          "url": "https://s.weibo.com/weibo?q=梅姨真实姓名首曝光"
         },
         {
-          "title": "鸿蒙智行回应竹知了事件",
-          "summary": "【新】135万热度 鸿蒙智行回应竹知了事件",
-          "url": "https://s.weibo.com/weibo?q=鸿蒙智行回应竹知了事件"
+          "title": "婚外胚胎案原配首次与第三者当面对质",
+          "summary": "111万热度 婚外胚胎案原配首次与第三者当面对质",
+          "url": "https://s.weibo.com/weibo?q=婚外胚胎案原配首次与第三者当面对质"
         },
         {
-          "title": "谁是联合利刃未来战场主角",
-          "summary": "81万热度 谁是联合利刃未来战场主角",
-          "url": "https://s.weibo.com/weibo?q=谁是联合利刃未来战场主角"
+          "title": "跟着大国交通看山河中国",
+          "summary": "94万热度 跟着大国交通看山河中国",
+          "url": "https://s.weibo.com/weibo?q=跟着大国交通看山河中国"
         },
         {
-          "title": "微信翻译 清朝变明朝",
-          "summary": "80万热度 微信翻译 清朝变明朝",
-          "url": "https://s.weibo.com/weibo?q=微信翻译 清朝变明朝"
+          "title": "卜冠今吓到我了",
+          "summary": "【热】92万热度 卜冠今吓到我了",
+          "url": "https://s.weibo.com/weibo?q=卜冠今吓到我了"
         },
         {
-          "title": "建议大家买行李箱不要太大众",
-          "summary": "53万热度 建议大家买行李箱不要太大众",
-          "url": "https://s.weibo.com/weibo?q=建议大家买行李箱不要太大众"
+          "title": "成年人的体面是把请客说得很自然",
+          "summary": "88万热度 成年人的体面是把请客说得很自然",
+          "url": "https://s.weibo.com/weibo?q=成年人的体面是把请客说得很自然"
         },
         {
-          "title": "内娱新四大名著",
-          "summary": "50万热度 内娱新四大名著",
-          "url": "https://s.weibo.com/weibo?q=内娱新四大名著"
+          "title": "这一秒过火全员be",
+          "summary": "【热】83万热度 这一秒过火全员be",
+          "url": "https://s.weibo.com/weibo?q=这一秒过火全员be"
         },
         {
-          "title": "我们的少年时代2",
-          "summary": "【新】49万热度 我们的少年时代2",
-          "url": "https://s.weibo.com/weibo?q=我们的少年时代2"
+          "title": "乐高灵感花店",
+          "summary": "82万热度 乐高灵感花店",
+          "url": "https://s.weibo.com/weibo?q=乐高灵感花店"
         },
         {
-          "title": "人不在工位一定要把豆包关了",
-          "summary": "48万热度 人不在工位一定要把豆包关了",
-          "url": "https://s.weibo.com/weibo?q=人不在工位一定要把豆包关了"
+          "title": "茉莉奶白被茉莉和奶白背刺了",
+          "summary": "【新】82万热度 茉莉奶白被茉莉和奶白背刺了",
+          "url": "https://s.weibo.com/weibo?q=茉莉奶白被茉莉和奶白背刺了"
         }
       ]
     },
