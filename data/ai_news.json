@@ -1,50 +1,50 @@
 {
-  "date": "2026-09-23",
-  "weekday": "周三",
+  "date": "2026-09-24",
+  "weekday": "周四",
   "categories": [
     {
       "name": "热门话题",
       "icon": "🔥",
       "items": [
         {
-          "title": "小米电视",
-          "summary": "49万热度 小米电视",
-          "url": "https://s.weibo.com/weibo?q=小米电视"
+          "title": "中美元首华盛顿会晤",
+          "summary": "41万热度 中美元首华盛顿会晤",
+          "url": "https://s.weibo.com/weibo?q=中美元首华盛顿会晤"
         },
         {
-          "title": "花少2搬箱子楼梯实际长这样",
-          "summary": "【新】36万热度 花少2搬箱子楼梯实际长这样",
-          "url": "https://s.weibo.com/weibo?q=花少2搬箱子楼梯实际长这样"
+          "title": "邀请10万名美国青少年来华交流学习",
+          "summary": "38万热度 邀请10万名美国青少年来华交流学习",
+          "url": "https://s.weibo.com/weibo?q=邀请10万名美国青少年来华交流学习"
         },
         {
-          "title": "中国天眼实现一批原创突破",
-          "summary": "32万热度 中国天眼实现一批原创突破",
-          "url": "https://s.weibo.com/weibo?q=中国天眼实现一批原创突破"
+          "title": "乒乓情缘续写友谊新篇",
+          "summary": "24万热度 乒乓情缘续写友谊新篇",
+          "url": "https://s.weibo.com/weibo?q=乒乓情缘续写友谊新篇"
         },
         {
-          "title": "OPPOFindX10系列今日开售",
-          "summary": "32万热度 OPPOFindX10系列今日开售",
-          "url": "https://s.weibo.com/weibo?q=OPPOFindX10系列今日开售"
+          "title": "中秋佳节 共赏明月",
+          "summary": "24万热度 中秋佳节 共赏明月",
+          "url": "https://s.weibo.com/weibo?q=中秋佳节 共赏明月"
         },
         {
-          "title": "谭松韵回应兰香大婚扇巴掌",
-          "summary": "【新】31万热度 谭松韵回应兰香大婚扇巴掌",
-          "url": "https://s.weibo.com/weibo?q=谭松韵回应兰香大婚扇巴掌"
+          "title": "饭桌上吃得越少别人越拿不准",
+          "summary": "【新】24万热度 饭桌上吃得越少别人越拿不准",
+          "url": "https://s.weibo.com/weibo?q=饭桌上吃得越少别人越拿不准"
         },
         {
-          "title": "日本男团3比0晋级决赛",
-          "summary": "16万热度 日本男团3比0晋级决赛",
-          "url": "https://s.weibo.com/weibo?q=日本男团3比0晋级决赛"
+          "title": "孙颖莎回应国乒女团金牌",
+          "summary": "24万热度 孙颖莎回应国乒女团金牌",
+          "url": "https://s.weibo.com/weibo?q=孙颖莎回应国乒女团金牌"
         },
         {
-          "title": "杨幂骗了全网",
-          "summary": "【热】16万热度 杨幂骗了全网",
-          "url": "https://s.weibo.com/weibo?q=杨幂骗了全网"
+          "title": "花少北复活了",
+          "summary": "【新】22万热度 花少北复活了",
+          "url": "https://s.weibo.com/weibo?q=花少北复活了"
         },
         {
-          "title": "吉利AI智充",
-          "summary": "16万热度 吉利AI智充",
-          "url": "https://s.weibo.com/weibo?q=吉利AI智充"
+          "title": "比亚迪第2000座闪充高速站",
+          "summary": "21万热度 比亚迪第2000座闪充高速站",
+          "url": "https://s.weibo.com/weibo?q=比亚迪第2000座闪充高速站"
         }
       ]
     },
